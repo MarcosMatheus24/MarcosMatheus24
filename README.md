@@ -1,10 +1,10 @@
-# Olá, eu sou o [Marcos Matheus] 👋
+# Olá, eu sou o [Marcos Matheus] 
 
 Desenvolvedor em constante evolução, apaixonado por tecnologia e focado em construir soluções eficientes, funcionais e bem estruturadas.
 
 ---
 
-### 💻 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,7 +17,7 @@ Desenvolvedor em constante evolução, apaixonado por tecnologia e focado em con
 
 ---
 
-### 🚀 Sobre Mim & Objetivos Profissionais
+###  Sobre Mim & Objetivos Profissionais
 
 Tenho dedicado meu tempo ao estudo prático e ao aprofundamento técnico, construindo uma base sólida tanto no **desenvolvimento web (Front-End com React, JS, HTML e CSS)** quanto na **lógica de programação de baixo e alto nível (C, C++ e Java)**. Essa combinação me permite entender não apenas como construir interfaces modernas e responsivas, mas também como os sistemas funcionam por baixo do pano.
 
@@ -31,7 +31,7 @@ Estou em busca da minha próxima oportunidade para somar a uma equipe de tecnolo
 
 ---
 
-### 📬 Vamos nos conectar?
+###  Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-matheus-ribeiro-muniz-1aba31326/)
 Email para contato: marc.matheus24@gmail.com
