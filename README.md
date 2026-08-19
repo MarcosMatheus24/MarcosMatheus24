@@ -1,4 +1,4 @@
-# Olá, eu sou o [Seu Nome] 👋
+# Olá, eu sou o [Marcos Matheus] 👋
 
 Desenvolvedor em constante evolução, apaixonado por tecnologia e focado em construir soluções eficientes, funcionais e bem estruturadas.
 
@@ -13,6 +13,7 @@ Desenvolvedor em constante evolução, apaixonado por tecnologia e focado em con
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
