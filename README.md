@@ -1,4 +1,4 @@
-# Olá, eu sou o Marcos Matheus]
+# Olá, eu sou o Marcos Matheus
 
 Desenvolvedor em constante evolução, apaixonado por tecnologia e focado em construir soluções eficientes, funcionais e bem estruturadas.
 
